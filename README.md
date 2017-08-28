@@ -16,7 +16,7 @@ When you see a banner at the top of your terminal and a new interface, you are s
 
 ## never do these
 Once you are connected, please be sure that you should never do these unless you fully understand what you are doing.
-⋅⋅* rm xxx -r *
+1. rm xxx -r *
 
 ## config your account
 
