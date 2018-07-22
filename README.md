@@ -75,6 +75,8 @@ use `man [command]` (e.g. `man pwd`) to get help (use `q` to exit)
 [here](http://www.shsu.edu/~csc_tjm/cs431/shellprog.html)
 
 ## vim
+Vim is **THE** editor if you are editing files on server.
+
 `man vim` to have some basic ideas
 
 `vimtutor` and finish the tutorial (at least lesson 1 and lesson2)
