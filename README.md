@@ -70,8 +70,3 @@ use `man [command]` (e.g. `man pwd`) to get help (use `q` to exit)
 
 ## [optional] environment?
 read [this](https://wiki.archlinux.org/index.php/environment_variables) carefully
-
-## [example] host a wechat bot
-here is a minimum example showing what's the power of a server and why we need it
-
-*coming soon*
