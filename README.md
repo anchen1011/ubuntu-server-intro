@@ -16,11 +16,11 @@ When you see a banner at the top of your terminal and a new interface, you are s
 
 ## never do these
 Once you are connected, please be sure that you should never do these unless you fully understand what you are doing.
-1. use sudo user
-2. rm ~ -r
-3. rm * -r
-4. touch anything related to ufw
-5. touch anything related to apache or apache2
+1. type in anything containing `sudo`
+2. `rm ~ -r`
+3. `rm * -r`
+4. touch anything related to `ufw`
+5. touch anything related to `apache` or `apache2`
 6. [to be continued]
 
 ## config your account
