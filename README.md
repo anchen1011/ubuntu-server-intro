@@ -5,6 +5,9 @@ introduction to basic function and usage of ubuntu server (with a simple example
 ## [for windows-only user] git-bash
 If you have only windows machine, you will have lots of troubles with server but you can still get most of functionality with e.g. git-bash. Install git-bash following [here](https://git-for-windows.github.io) and open your git-bash when I say **terminal** in all following sections.
 
+## [if you don't have a server access yet] 
+[Try it out with AWS for free](https://github.com/anchen1011/ubuntu-server-intro#optional-use-aws)
+
 ## connect
 open your terminal, and type in command `ssh [username]@[server.address]` and press enter
 
