@@ -60,13 +60,17 @@ read [this](http://www.tldp.org/LDP/intro-linux/html/)(at least section 2 and 3)
 
 use `man [command]` (e.g. `man pwd`) to get help (use `q` to exit)
 
-## [optional] intro to shell
-[here](http://www.shsu.edu/~csc_tjm/cs431/shellprog.html)
-
 ## vim
 `man vim` to have some basic ideas
 
 `vimtutor` and finish the tutorial (at least lesson 1 and lesson2)
+
+## [optional] use AWS
+
+[here](aws.md)
+
+## [optional] intro to shell
+[here](http://www.shsu.edu/~csc_tjm/cs431/shellprog.html)
 
 ## [optional] environment?
 read [this](https://wiki.archlinux.org/index.php/environment_variables) carefully
