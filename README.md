@@ -67,7 +67,7 @@ use `man [command]` (e.g. `man pwd`) to get help (use `q` to exit)
 
 ## [optional] use AWS
 
-[here](aws.md)
+[here](https://github.com/griffithlab/rnaseq_tutorial/wiki/Intro-to-AWS-Cloud-Computing)
 
 ## [optional] intro to shell
 [here](http://www.shsu.edu/~csc_tjm/cs431/shellprog.html)
