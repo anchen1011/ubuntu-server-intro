@@ -5,8 +5,13 @@ introduction to basic function and usage of ubuntu server (with a simple example
 ## [for windows-only user] git-bash
 If you have only windows machine, you will have lots of troubles with server but you can still get most of functionality with e.g. git-bash. Install git-bash following [here](https://git-for-windows.github.io) and open your git-bash when I say **terminal** in all following sections.
 
-## [if you don't have a server access yet] 
-[Try it out with AWS for free](https://github.com/anchen1011/ubuntu-server-intro#optional-use-aws)
+## [if you don't have server access or you are required to manage servers] use AWS
+
+[here](https://github.com/griffithlab/rnaseq_tutorial/wiki/Intro-to-AWS-Cloud-Computing)
+
+**STOP a server** from AWS console if nobody is using it. 
+
+**You are charged** even if you disconnect from server.
 
 ## connect
 open your terminal, and type in command `ssh [username]@[server.address]` and press enter
@@ -67,10 +72,6 @@ use `man [command]` (e.g. `man pwd`) to get help (use `q` to exit)
 `man vim` to have some basic ideas
 
 `vimtutor` and finish the tutorial (at least lesson 1 and lesson2)
-
-## [optional] use AWS
-
-[here](https://github.com/griffithlab/rnaseq_tutorial/wiki/Intro-to-AWS-Cloud-Computing)
 
 ## [optional] intro to shell
 [here](http://www.shsu.edu/~csc_tjm/cs431/shellprog.html)
