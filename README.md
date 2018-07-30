@@ -85,9 +85,13 @@ Vim is **THE** editor if you are editing files on server.
 Use tmux to manage windows in terminal. Run process on server with tmux to safely disconnect. 
 
 create new window: `tmux`
+
 attach to a window: `tmux a`
+
 detach from window: `ctrl+b d`
+
 switch between windows: `ctrl+b s`
+
 split window: `ctrl+b %` and `ctrl+b $`
 
 ## [optional] environment?
